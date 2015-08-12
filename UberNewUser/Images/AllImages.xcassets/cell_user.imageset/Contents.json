@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "filename" : "F:\\ui\\Total  App\\taxi\\nirali ben\\drawable-mdpi\\mdpi_tx\\call_user.png"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "F:\\ui\\Total  App\\taxi\\nirali ben\\drawable-xxhdpi\\xxhdpi_tx\\cell_user.png"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

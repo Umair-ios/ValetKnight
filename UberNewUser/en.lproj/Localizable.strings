@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  UberNewUser
+
+  Created by Elluminati - macbook on 27/09/14.
+  Copyright (c) 2014 Jigs. All rights reserved.
+*/
+
+"APPLICATION NAME"="UKCL CUSTOMER";
+
+"SELECT_PHOTO"="Select Photo";
+"TAKE_PHOTO"="Take Photo";
+"CANCEL"="Cancel";
+"OK"="OK";
+"CAM_NOT_AVAILABLE" = "Camera Not Available";
+"PLEASE_FIRST_NAME"="Please enter a first name.";
+"PLEASE_LAST_NAME"="Please enter a last name.";
+"PLEASE_EMAIL"="Please enter a email address.";
+"PLEASE_NUMBER"="Please enter a number.";
+"PLEASE_PASSWORD"="Please enter a password.";
+"PLEASE_VALID_EMAIL"="Please enter a valid email address.";
+
+"REGISTER_SUCCESS"="Successfully registered!";
+"REGISTER_FAIL"="Registration failed Please try again.";
+
+"LOGIN_SUCCESS"="Welcome ";
+"LOGIN_FAIL"="Login failed, Please try again ..";
+
+"THING_SUCCESS"="Successfully Added your things.";
+"THING_FAIL"="Failed Please try again.";
+
+"NOT_VALID_LOCATION" = "Not a Valid Location";
+
+
+//////////// Loading Titles
+
+
+"COTACCTING_SERVICE_PROVIDER"="Contacting nearby taxis..";
+"SEARCHING_PROVIDERS"="Searching for nearby taxis..";
+"LOADING"="LOADING...";
+"LOGIN"="logging in...";//"PLEASE WAIT, WHILE WE LOG YOU IN";
+"WAITING_FOR_ADMIN_CONFIRM"="YOUR APPROVAL IS STILL IN PROCESS, WE WILL CONTACT YOU SOON.";
+"REQUESTING"="REQUESTING";
+"REVIEWING"="REVIEWING";
+"CANCLEING"="CANCELLING";
+"EDITING"="Updating";
+"PLEASE_WAIT"="Please Wait";
+
+
+/////////////// Toast Title
+
+"SUCESS_REFERRAL" = "Referral Code applied";
+"RATING"= "Thank you for your feedback";
+"PASSWORD_SENT"="Your password has been emailed to your registered address";
+"ERROR"="Oops! An error occured, Please Try Again.";
+"SELECT_TYPE" = "Please select a type.";
+"REQUEST_CANCEL" = "Your request has been cancelled";
+"NO_WALKER" = "We weren't able to find any taxis nearby";
+"PROFILE_EDIT_SUCESS" = "Your profile has been updated successfully";
+"NO_REFERRAL" = "This user does not have a referral code.";
+
+///// No internet
+"NO_INTERNET"="Check your Internet connection";

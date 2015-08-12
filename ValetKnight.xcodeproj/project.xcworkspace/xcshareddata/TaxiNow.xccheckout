@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>523A2519-9ABE-4144-8704-D5F7556F3473</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TaxiNow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6EE4B1FC1F93C31850BCF75C1EF229CB5B2A844B</key>
+		<string>https://bitbucket.org/provenlogic/taxinow-ios-_client_googlemaps.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TaxiNow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6EE4B1FC1F93C31850BCF75C1EF229CB5B2A844B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/provenlogic/taxinow-ios-_client_googlemaps.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6EE4B1FC1F93C31850BCF75C1EF229CB5B2A844B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EE4B1FC1F93C31850BCF75C1EF229CB5B2A844B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UberForTaxi_Gmaps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
