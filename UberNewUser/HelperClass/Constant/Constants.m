@@ -10,7 +10,7 @@ NSString * const ParseClientKey = nil; // TODO: replace nil with your own value
 #pragma mark -
 #pragma mark - APPLICATION NAME
 
-NSString *const APPLICATION_NAME=@"UKCL CUSTOMER";
+NSString *const APPLICATION_NAME=@"ValetKnight";
 
 #pragma mark -
 #pragma mark - Segue Identifier

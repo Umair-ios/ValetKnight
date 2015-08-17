@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "149BB4AC19D682A6002CA0C5"
-               BuildableName = "UKCL CUSTOMER.app"
+               BuildableName = "ValetKnight.app"
                BlueprintName = "ValetKnight"
                ReferencedContainer = "container:ValetKnight.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "149BB4AC19D682A6002CA0C5"
-            BuildableName = "UKCL CUSTOMER.app"
+            BuildableName = "ValetKnight.app"
             BlueprintName = "ValetKnight"
             ReferencedContainer = "container:ValetKnight.xcodeproj">
          </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "149BB4AC19D682A6002CA0C5"
-            BuildableName = "UKCL CUSTOMER.app"
+            BuildableName = "ValetKnight.app"
             BlueprintName = "ValetKnight"
             ReferencedContainer = "container:ValetKnight.xcodeproj">
          </BuildableReference>
@@ -72,7 +72,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "149BB4AC19D682A6002CA0C5"
-            BuildableName = "UKCL CUSTOMER.app"
+            BuildableName = "ValetKnight.app"
             BlueprintName = "ValetKnight"
             ReferencedContainer = "container:ValetKnight.xcodeproj">
          </BuildableReference>

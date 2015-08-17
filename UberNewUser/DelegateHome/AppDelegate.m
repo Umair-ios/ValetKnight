@@ -15,7 +15,7 @@
 #import "ProviderDetailsVC.h"
 #import <GoogleMaps/GoogleMaps.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
-#import <BugSense-iOS/BugSenseController.h>
+#import <SplunkMint/SplunkMint.h>
 
 @implementation AppDelegate
 @synthesize vcProvider, vcPickup;
@@ -59,8 +59,8 @@
     
     return [[FBSDKApplicationDelegate sharedInstance] application:application
                                     didFinishLaunchingWithOptions:launchOptions];
-    [BugSenseController sharedControllerWithBugSenseAPIKey:@"d08202d8"];
 
+    [[Mint sharedInstance] initAndStartSession:@"54dfe338"];
     //return YES;
 }
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6250" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="COd-m6-x40">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="COd-m6-x40">
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
     </dependencies>
     <customFonts key="customFonts">
         <mutableArray key="OpenSans-Bold.ttf">
@@ -2361,7 +2361,7 @@
             <objects>
                 <viewController id="rWO-Iw-aNh" customClass="PaymentVC" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Ifo-lt-AQH">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="zyU-v3-chx" userLabel="btnScan">
@@ -2382,7 +2382,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Woc-1E-aj6" userLabel="btnNext">
-                                <rect key="frame" x="0.0" y="518" width="320" height="50"/>
+                                <rect key="frame" x="0.0" y="430" width="320" height="50"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -2480,7 +2480,7 @@
                                 <color key="separatorColor" red="1" green="0.61176470589999998" blue="0.24313725489999999" alpha="1" colorSpace="deviceRGB"/>
                                 <prototypes>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="cardcell" id="OeJ-fx-Cg4" customClass="MGSwipeTableCell">
-                                        <rect key="frame" x="0.0" y="86" width="320" height="44"/>
+                                        <rect key="frame" x="0.0" y="22" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="OeJ-fx-Cg4" id="pBn-Qo-28E">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
@@ -2500,7 +2500,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="5ex-qo-oSj">
                                 <rect key="frame" x="47" y="104" width="226" height="85"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" backgroundImage="4F0A05B3-E0AB-4CA1-A172-014D83F69AC7">
+                                <state key="normal" backgroundImage="BA2A3800-8BB2-433F-ABEF-ABD7D2F4216A">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
@@ -2905,7 +2905,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Thanks for signing up with TaxiNow! Share your referral code with your friends to earn free rides!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Oy8-dK-7Jc">
-                                <rect key="frame" x="27" y="351" width="274" height="87.999993253744861"/>
+                                <rect key="frame" x="27" y="351" width="274" height="87.999989233562687"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES" heightSizable="YES"/>
                                 <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="15"/>
                                 <color key="textColor" red="0.97254901959999995" green="0.5450980392" blue="0.18823529410000001" alpha="1" colorSpace="calibratedRGB"/>
@@ -3483,7 +3483,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="4F0A05B3-E0AB-4CA1-A172-014D83F69AC7" width="323" height="116">
+        <image name="BA2A3800-8BB2-433F-ABEF-ABD7D2F4216A" width="323" height="116">
             <mutableData key="keyedArchiveRepresentation">
 YnBsaXN0MDDUAQIDBAUGPj9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK4HCBMU
 GR4fIyQsLzI4O1UkbnVsbNUJCgsMDQ4PEBESVk5TU2l6ZVYkY2xhc3NcTlNJbWFnZUZsYWdzVk5TUmVw
@@ -6048,8 +6048,8 @@ AlOxAAAAAAAABAEAAAAAAAAAQgAAAAAAAAAAAAAAAAACU7M
         <image name="btn_facebook_signIn" width="77" height="77"/>
         <image name="btn_google" width="56" height="56"/>
         <image name="btn_google_signIn" width="77" height="77"/>
-        <image name="btn_register" width="119" height="32"/>
-        <image name="btn_signin" width="119" height="32"/>
+        <image name="btn_register" width="119" height="31"/>
+        <image name="btn_signin" width="119" height="31"/>
         <image name="button_limo.png" width="82" height="82"/>
         <image name="check_box" width="21" height="21"/>
         <image name="clock" width="22" height="22"/>
@@ -6098,7 +6098,7 @@ AlOxAAAAAAAABAEAAAAAAAAAQgAAAAAAAAAAAAAAAAACU7M
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
         <segue reference="XVe-qD-vdr"/>
+        <segue reference="EQ2-3d-9Om"/>
         <segue reference="dDE-b2-d1Y"/>
-        <segue reference="Eob-Om-xW5"/>
     </inferredMetricsTieBreakers>
 </document>
